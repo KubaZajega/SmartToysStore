@@ -167,3 +167,9 @@ C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore\obj\Debug\net8.0\refi
 C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore\obj\Debug\net8.0\SmartToysStore.pdb
 C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore\obj\Debug\net8.0\SmartToysStore.genruntimeconfig.cache
 C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore\obj\Debug\net8.0\ref\SmartToysStore.dll
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore\bin\Debug\net8.0\SmartToysStore.DataAccess.dll
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore\bin\Debug\net8.0\SmartToysStore.Models.dll
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore\bin\Debug\net8.0\SmartToysStore.Utility.dll
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore\bin\Debug\net8.0\SmartToysStore.DataAccess.pdb
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore\bin\Debug\net8.0\SmartToysStore.Models.pdb
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore\bin\Debug\net8.0\SmartToysStore.Utility.pdb

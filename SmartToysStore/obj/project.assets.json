@@ -1608,6 +1608,42 @@
             "rid": "win"
           }
         }
+      },
+      "SmartToysStore.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+          "SmartToysStore.Models": "1.0.0",
+          "SmartToysStore.Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SmartToysStore.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartToysStore.DataAccess.dll": {}
+        }
+      },
+      "SmartToysStore.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SmartToysStore.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartToysStore.Models.dll": {}
+        }
+      },
+      "SmartToysStore.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SmartToysStore.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartToysStore.Utility.dll": {}
+        }
       }
     }
   },
@@ -4724,13 +4760,31 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "SmartToysStore.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../SmartToysStore.DataAccess/SmartToysStore.DataAccess.csproj",
+      "msbuildProject": "../SmartToysStore.DataAccess/SmartToysStore.DataAccess.csproj"
+    },
+    "SmartToysStore.Models/1.0.0": {
+      "type": "project",
+      "path": "../SmartToysStore.Models/SmartToysStore.Models.csproj",
+      "msbuildProject": "../SmartToysStore.Models/SmartToysStore.Models.csproj"
+    },
+    "SmartToysStore.Utility/1.0.0": {
+      "type": "project",
+      "path": "../SmartToysStore.Utility/SmartToysStore.Utility.csproj",
+      "msbuildProject": "../SmartToysStore.Utility/SmartToysStore.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
-      "Microsoft.EntityFrameworkCore.Tools >= 9.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
+      "SmartToysStore.DataAccess >= 1.0.0",
+      "SmartToysStore.Models >= 1.0.0",
+      "SmartToysStore.Utility >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4766,7 +4820,17 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore.DataAccess\\SmartToysStore.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore.DataAccess\\SmartToysStore.DataAccess.csproj"
+            },
+            "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore.Models\\SmartToysStore.Models.csproj": {
+              "projectPath": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore.Models\\SmartToysStore.Models.csproj"
+            },
+            "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore.Utility\\SmartToysStore.Utility.csproj": {
+              "projectPath": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore.Utility\\SmartToysStore.Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

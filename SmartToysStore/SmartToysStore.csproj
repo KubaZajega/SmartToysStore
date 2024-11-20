@@ -15,4 +15,10 @@
       </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\SmartToysStore.DataAccess\SmartToysStore.DataAccess.csproj" />
+      <ProjectReference Include="..\SmartToysStore.Models\SmartToysStore.Models.csproj" />
+      <ProjectReference Include="..\SmartToysStore.Utility\SmartToysStore.Utility.csproj" />
+    </ItemGroup>
+
 </Project>

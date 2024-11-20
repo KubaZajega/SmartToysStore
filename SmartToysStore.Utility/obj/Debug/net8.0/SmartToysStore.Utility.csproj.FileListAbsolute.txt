@@ -1,0 +1,12 @@
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\bin\Debug\net8.0\SmartToysStore.Utility.deps.json
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\bin\Debug\net8.0\SmartToysStore.Utility.dll
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\bin\Debug\net8.0\SmartToysStore.Utility.pdb
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\SmartToysStore.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\SmartToysStore.Utility.AssemblyInfoInputs.cache
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\SmartToysStore.Utility.AssemblyInfo.cs
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\SmartToysStore.Utility.csproj.CoreCompileInputs.cache
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\SmartToysStore.Utility.sourcelink.json
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\SmartToysStore.Utility.dll
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\refint\SmartToysStore.Utility.dll
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\SmartToysStore.Utility.pdb
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\ref\SmartToysStore.Utility.dll
