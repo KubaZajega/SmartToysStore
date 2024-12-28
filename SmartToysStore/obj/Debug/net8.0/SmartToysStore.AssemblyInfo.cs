@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartToysStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d075cb3a7c11a25c79540df88237e7a83c280a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86e2a679c6cc99790c1241aa1a0573e912ae3008")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartToysStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartToysStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
