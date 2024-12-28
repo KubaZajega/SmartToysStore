@@ -13,8 +13,60 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\images\\order_confirmed.png",
+      "PackagePath": "staticwebassets\\images\\order_confirmed.png"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\images\\product\\605cab27-4757-4242-8768-197e7bed989f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\605cab27-4757-4242-8768-197e7bed989f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\images\\product\\6f8d1e45-0a58-46b5-9103-4a4cd8f333e4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6f8d1e45-0a58-46b5-9103-4a4cd8f333e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\images\\product\\7536b747-b6ac-4ba5-a869-350d3a11c651.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7536b747-b6ac-4ba5-a869-350d3a11c651.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\images\\product\\96564181-f9a3-484d-b11f-4ba4af827ac2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\96564181-f9a3-484d-b11f-4ba4af827ac2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\images\\product\\c61e0a9c-9618-44c3-853f-91de4103932b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c61e0a9c-9618-44c3-853f-91de4103932b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\images\\product\\df552834-a21f-4736-a3c6-f0caa3a48fd4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\df552834-a21f-4736-a3c6-f0caa3a48fd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\images\\product\\f5388d76-c917-47ea-abdb-02ccd5daabb7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f5388d76-c917-47ea-abdb-02ccd5daabb7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\images\\product\\f8551ae3-8ccc-4f17-8b3f-8330ec9bda5e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f8551ae3-8ccc-4f17-8b3f-8330ec9bda5e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
     },
     {
       "Id": "C:\\Users\\jzaje\\RiderProjects\\SmartToysStore\\SmartToysStore\\wwwroot\\lib\\bootstrap\\LICENSE",

@@ -10,3 +10,4 @@ C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net
 C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\refint\SmartToysStore.Utility.dll
 C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\SmartToysStore.Utility.pdb
 C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\ref\SmartToysStore.Utility.dll
+C:\Users\jzaje\RiderProjects\SmartToysStore\SmartToysStore.Utility\obj\Debug\net8.0\SmartToysStore.Utility.csproj.AssemblyReference.cache

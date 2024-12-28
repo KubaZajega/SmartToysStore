@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartToysStore.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39db7008df34351b1764b6af08eba858085841df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d075cb3a7c11a25c79540df88237e7a83c280a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartToysStore.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartToysStore.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
