@@ -42,30 +42,86 @@ namespace SmartToysStore.DataAccess.Data
                 new Product
                 {
                     Id = 1, 
-                    Name = "Dog Puzzle Toy",
-                    Description = "This interactive dog puzzle toy provides an entertaining brain game for puppies and cats. It encourages and trains your pets to seek food by sliding the parts, helping them increase their IQ through learning sequential steps and engaging in challenging play.",
-                    ModelCode = "B0DCYYX4LR",
-                    Price = 10.00,
-                    Price50 = 9.80,
-                    Price100 = 9.50,
+                    Name = "Duck with Soft Squeaker",
+                    Description = "<p>This <strong>plush</strong> dog toy features a soft pink duck design with vibrant yellow beak and feet, making it an adorable and engaging playmate for your pet. <strong>Durable</strong> and <strong>lightweight</strong>, it&rsquo;s perfect for <strong>fetching</strong>, <strong>chewing</strong>, and <strong>cuddling</strong>, ensuring hours of fun for dogs of all sizes.</p>",
+                    ModelCode = "B09BBP8FP3",
+                    Price = 45.00,
+                    Price50 = 44.00,
+                    Price100 = 43.50,
                     Color = "Pink",
-                    Link = "https://www.amazon.com/SYNATANA-Enrichment-Stimulation-Training-Dispense/dp/B0DCYYX4LR/ref=sr_1_1_sspa?crid=2R31LDUSIGVE6&dib=eyJ2IjoiMSJ9.27vy3bjlY6X8DSfw2qzdQ6IqxI8zm5keAnRoAwpuDcDwwMbGxlTe_WGX7Tfc7CnMECjp4JtxnnmE304bJJ97tWOAg7Gr5v9XBiRyK97zTEPBNctjbyuISDXCg0CpBvqb6jrGTKmCPypFnHk9_h9yTurRDC7bbaoJ4ejKyt9XI5njVtzqlIo9D-lTgI134LxnPJNKfEjTorKbzH5bgHiEAcFYGsd1gE41ZMPtqYfGwO3p-UhYjK-c4tbrCg99EOj9IxQ1zjyKVAj76WmabSNGrOa3Vc3Bkv3Xij_o9uFHIvg.jw4pl-sO9G1ILQzGEcYLfbQBiYMKiElc3Z_5Oqs3OV0&dib_tag=se&keywords=dogs%2Btoys%2Bsmart&qid=1732174403&sprefix=dogs%2Btoys%2Bsmar%2Caps%2C176&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
-                    Image = "https://m.media-amazon.com/images/I/71XFp-kRtGL._AC_SL1500_.jpg",
-                    CategoryId = 2
-                },
-            new Product
+                    Link = "",
+                    Image = "\\images\\product\\f8551ae3-8ccc-4f17-8b3f-8330ec9bda5e.jpg",
+                    CategoryId = 5
+                }, 
+                new Product
                 {
                     Id = 2, 
-                    Name = "TEST Toy",
-                    Description = "Testestestestest",
-                    ModelCode = "Testcode",
-                    Price = 111.50,
-                    Price50 = 110.80,
-                    Price100 = 110,
-                    Color = "Yellow",
-                    Link = "testLINK",
-                    Image = "testIMAGE",
+                    Name = "Treat Dispensing Dog Toy",
+                    Description = "<p>The dog toy <strong>opens</strong> in the middle and fill the dog <strong>treat</strong> tray with your dog's favorite foods or treats, pop it in the freezer, Pop the frozen treats in the toy for <strong>delicious</strong>, <strong>large </strong>capacity 6 cavities silicone dog treat tray can be used for l<strong>ong-lasting</strong> dog play.</p>",
+                    ModelCode = "B0CQR9741Z",
+                    Price = 80,
+                    Price50 = 79,
+                    Price100 = 78,
+                    Color = "Green",
+                    Link = "",
+                    Image = "\\images\\product\\6f8d1e45-0a58-46b5-9103-4a4cd8f333e4.jpg",
                     CategoryId = 1
+                },
+                new Product
+                {
+                    Id = 3, 
+                    Name = "Interactive Rolling Ball For Dogs",
+                    Description = "<p style=\"list-style-type: disc;\">Interactive Dog Ball Toy is made of <strong>durable</strong>, <strong>non-toxic </strong>nylon and does not contain&nbsp;BPA. However, please note that it is not <strong>suitable </strong>for <strong>aggressive chewers</strong></p>  <p style=\"list-style-type: disc;\"><strong>Waterproof </strong>rating of IP54, suitable for both <strong>indoor </strong>and <strong>outdoor </strong>use and play</p>",
+                    ModelCode = "B0CFXSQSKH",
+                    Price = 75,
+                    Price50 = 72,
+                    Price100 = 70,
+                    Color = "Multicolor",
+                    Link = "",
+                    Image = "\\images\\product\\96564181-f9a3-484d-b11f-4ba4af827ac2.jpg",
+                    CategoryId = 1
+                },
+                new Product
+                {
+                    Id = 4, 
+                    Name = "Interactive Treat Puzzle For Dog",
+                    Description = "<p style=\"list-style-type: disc;\"><strong>Advanced</strong> dog puzzle &ndash; an interactive <strong>challenge </strong>for <strong>smart </strong>dogs, this treat game is great for pets who have mastered easier puzzles.</p>",
+                    ModelCode = "B0719Q89X8",
+                    Price = 40,
+                    Price50 = 39,
+                    Price100 = 36,
+                    Color = "Blue",
+                    Link = "",
+                    Image = "\\images\\product\\f5388d76-c917-47ea-abdb-02ccd5daabb7.jpg",
+                    CategoryId = 2
+                },
+                new Product
+                {
+                    Id = 5, 
+                    Name = "7L Dog and Cat Water Dispenser",
+                    Description = "<p>The <strong>large </strong>water storage capacity allows owners to go out <strong>without worrying </strong>about their pets running out of water. <strong>Last </strong>about <strong>2-23 days </strong>for cat or dog use according to the pet's size.</p>",
+                    ModelCode = "B0CJR8KM2Y",
+                    Price = 120,
+                    Price50 = 115,
+                    Price100 = 110,
+                    Color = "Black",
+                    Link = "",
+                    Image = "\\images\\product\\df552834-a21f-4736-a3c6-f0caa3a48fd4.jpg",
+                    CategoryId = 4
+                },
+                new Product
+                {
+                    Id = 6, 
+                    Name = "Octopus Plush Toy For Dog",
+                    Description = "<p>Fuufome plush dog toys features a reali<strong>stic cartoon design that will keep your dog interested and satisfies the dog&rsquo;s natural urge to chew.This large dog toys can accompany your dog for a fun tim</strong>e. Large dog plush toys length is 13.5 inch, perfect pet dog toys</p>",
+                    ModelCode = "B0B1LVKG8D",
+                    Price = 30,
+                    Price50 = 28,
+                    Price100 = 27,
+                    Color = "Multicolor",
+                    Link = "",
+                    Image = "\\images\\product\\c61e0a9c-9618-44c3-853f-91de4103932b.jpg",
+                    CategoryId = 5
                 }
             );
         }

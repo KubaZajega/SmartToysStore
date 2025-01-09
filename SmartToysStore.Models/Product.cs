@@ -29,6 +29,7 @@ namespace SmartToysStore.Models
         [Display(Name = "Price 100+")]
         public double Price100 { get; set; }
         public string Color { get; set; }
+        [ValidateNever]
         public string Link { get; set; }
         [ValidateNever]
         public string Image { get; set; }

@@ -44,15 +44,63 @@ namespace SmartToysStore.DataAccess.DbInitializer
                     Email = "admin@smarttoysstore.com",
                     Name = "Jan Kowalski",
                     PhoneNumber = "123456789",
-                    StreetAddress = "test 123 Ave",
+                    StreetAddress = "123 Main St",
                     State = "NY",
                     PostalCode = "23422",
                     City = "New York"
 
-                }, "Admin123#").GetAwaiter().GetResult();
+                }, "Admin123!").GetAwaiter().GetResult();
+                
+                _userManager.CreateAsync(new ApplicationUser
+                {
+                    UserName = "jakub@smarttoysstore.com",
+                    Email = "jakub@smarttoysstore.com",
+                    Name = "Jakub Kowalski",
+                    PhoneNumber = "111333222",
+                    StreetAddress = "321 Main St",
+                    State = "NY",
+                    PostalCode = "23422",
+                    City = "New York"
 
-                ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "admin@smarttoysstore.com");
-                _userManager.AddToRoleAsync(user, SD.Role_Admin).GetAwaiter().GetResult();
+                }, "Haslo123!").GetAwaiter().GetResult();
+                
+                _userManager.CreateAsync(new ApplicationUser
+                {
+                    UserName = "john@readersclub.com",
+                    Email = "john@readersclub.com",
+                    Name = "John Smith",
+                    PhoneNumber = "222333111",
+                    StreetAddress = "321 Main St",
+                    State = "NY",
+                    PostalCode = "23422",
+                    City = "New York",
+                    Company = _db.Companies.FirstOrDefault(c => c.Name == "Readers Club")
+
+                }, "Haslo123!").GetAwaiter().GetResult();
+
+                _userManager.CreateAsync(new ApplicationUser
+                {
+                    UserName = "julia@gmail.com",
+                    Email = "julia@gmail.com",
+                    Name = "Julia Kowalska",
+                    PhoneNumber = "123123123",
+                    StreetAddress = "213 Main St",
+                    State = "NY",
+                    PostalCode = "23422",
+                    City = "New York"
+
+                }, "Haslo123!").GetAwaiter().GetResult();
+
+
+                ApplicationUser adminUser = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "admin@smarttoysstore.com");
+                ApplicationUser employeeUser = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "jakub@smarttoysstore.com");
+                ApplicationUser companyUser = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "john@readersclub.com");
+                ApplicationUser customerUser = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "julia@gmail.com");
+                
+                _userManager.AddToRoleAsync(adminUser, SD.Role_Admin).GetAwaiter().GetResult();
+                _userManager.AddToRoleAsync(employeeUser, SD.Role_Employee).GetAwaiter().GetResult();
+                _userManager.AddToRoleAsync(companyUser, SD.Role_Company).GetAwaiter().GetResult();
+                _userManager.AddToRoleAsync(customerUser, SD.Role_Customer).GetAwaiter().GetResult();
             }
 
             return;
